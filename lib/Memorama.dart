@@ -3,6 +3,8 @@ import 'package:examen_1/utils/singletton.dart';
 import 'package:flutter/material.dart';
 import 'constantes.dart' as cons;
 
+//DE LA CRUZ MENDOZA ISRAEL 356756
+
 class Carta {
   Color color;
   bool estado;
